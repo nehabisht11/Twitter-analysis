@@ -20,7 +20,7 @@ This repository contains the implementation of a **Real-Time Twitter Analytics D
 ## **Installation & Setup**
 1. Clone this repository:
    ```bash
-   git clone [GitHub_Repo_Link]
+   git clone [https://github.com/nehabisht11/Twitter-analysis.git]
    ```
 2. Open the `.pbix` file in Power BI Desktop.
 3. Connect to the Twitter dataset (Ensure data source paths are configured correctly).
@@ -69,7 +69,7 @@ This project was developed as an individual internship assignment, and external 
 This project is for educational and internship purposes only. Unauthorized distribution of the `.pbix` file or dashboard is prohibited.
 
 ## **Contact**
-For any queries, reach out via email: **training@nullclass.com**
+For any queries, reach out via email: **nehabisht1911@gmail.com**
 
 ---
-**GitHub Repository Link**: [Provide Your Link Here]
+**GitHub Repository Link**: [https://github.com/nehabisht11/Twitter-analysis.git]
